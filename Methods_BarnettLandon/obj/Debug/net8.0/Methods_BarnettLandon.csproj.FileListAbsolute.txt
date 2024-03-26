@@ -1,0 +1,14 @@
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\bin\Debug\net8.0\Methods_BarnettLandon.exe
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\bin\Debug\net8.0\Methods_BarnettLandon.deps.json
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\bin\Debug\net8.0\Methods_BarnettLandon.runtimeconfig.json
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\bin\Debug\net8.0\Methods_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\bin\Debug\net8.0\Methods_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\Methods_BarnettLandon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\Methods_BarnettLandon.AssemblyInfoInputs.cache
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\Methods_BarnettLandon.AssemblyInfo.cs
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\Methods_BarnettLandon.csproj.CoreCompileInputs.cache
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\Methods_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\refint\Methods_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\Methods_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\Methods_BarnettLandon.genruntimeconfig.cache
+C:\Users\LandonBarnett\source\repos\Methods_BarnettLandon\Methods_BarnettLandon\obj\Debug\net8.0\ref\Methods_BarnettLandon.dll
